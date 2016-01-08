@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/264/trunk/articles/phpsqlinfo
+END
+phpsqlinfo_addrow.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/24/trunk/articles/phpsqlinfo/phpsqlinfo_addrow.php
+END
+phpsqlinfo_dbinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/24/trunk/articles/phpsqlinfo/phpsqlinfo_dbinfo.php
+END
+phpsqlinfo_createtable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/24/trunk/articles/phpsqlinfo/phpsqlinfo_createtable.sql
+END
+phpsqlinfo_add.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/264/trunk/articles/phpsqlinfo/phpsqlinfo_add.html
+END

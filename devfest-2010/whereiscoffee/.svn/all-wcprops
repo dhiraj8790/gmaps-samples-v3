@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/app.yaml
+END
+geohash.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geohash.py
+END
+stores.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/stores.py
+END
+index.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/index.yaml
+END
+geohash.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geohash.pyc
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/models.py
+END
+models.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/models.pyc
+END
+places.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/places.py
+END
+index.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/index.py
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/264/trunk/articles/phpsqlsearch
+END
+phpsqlsearch_importdata.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_importdata.jpg
+END
+phpsqlsearch_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/trunk/articles/phpsqlsearch/phpsqlsearch_data.csv
+END
+phpsqlsearch_dbinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_dbinfo.php
+END
+phpsqlsearch_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/44/trunk/articles/phpsqlsearch/phpsqlsearch_data.sql
+END
+phpsqlsearch_createtable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_createtable.sql
+END
+phpsqlsearch_createtable.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_createtable.jpg
+END
+phpsqlsearch_genxml_php4.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_genxml_php4.php
+END
+phpsqlsearch_map.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/264/trunk/articles/phpsqlsearch/phpsqlsearch_map.html
+END
+phpsqlsearch_map.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_map.png
+END
+phpsqlsearch_genxml.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/33/trunk/articles/phpsqlsearch/phpsqlsearch_genxml.php
+END
+phpsqlsearch_expectedoutput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/44/trunk/articles/phpsqlsearch/phpsqlsearch_expectedoutput.xml
+END

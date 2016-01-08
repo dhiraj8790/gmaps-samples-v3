@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/264/trunk/articles/phpsqlajax
+END
+phpsqlajax_dbinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_dbinfo.php
+END
+phpsqlajax_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_data.sql
+END
+phpsqlajax_map_v3.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/264/trunk/articles/phpsqlajax/phpsqlajax_map_v3.html
+END
+phpsqlajax_createtable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_createtable.sql
+END
+phpsqlajax_genxml.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_genxml.php
+END
+phpsqlajax_expectedoutput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_expectedoutput.xml
+END
+phpsqlajax_genxml2.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_genxml2.php
+END
+phpsqlajax_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_data.csv
+END
+phpsqlajax_genxml3.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/24/trunk/articles/phpsqlajax/phpsqlajax_genxml3.php
+END

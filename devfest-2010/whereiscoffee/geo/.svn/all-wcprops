@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo
+END
+geocell.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geocell.py
+END
+geomodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geomodel.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/util.py
+END
+geocell.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geocell.pyc
+END
+geomodel.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geomodel.pyc
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/__init__.py
+END
+geotypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geotypes.py
+END
+util.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/util.pyc
+END
+geotypes.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geotypes.pyc
+END
+__init__.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/__init__.pyc
+END
+geomath.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geomath.py
+END
+geomath.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/203/trunk/devfest-2010/whereiscoffee/geo/geomath.pyc
+END
